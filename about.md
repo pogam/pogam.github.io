@@ -16,7 +16,7 @@ I am currently a Visiting Scholar at the University of Washington. I am  based a
 
 # Publication
 
-###Peer-reviewed publications:
+### Peer-reviewed publications:
 1.	Johnston, J., Wooster M, **Paugam R.**, Wang X., Lynham T., Johnston L.: Direct estimation of Byram’s fire intensity from infrared remote sensing imagery, Inter. J. of Wildland Fire, (accepted)  2017.
 2.	Rémy, S., Veira, A., **Paugam, R.**, Sofiev, M., Kaiser, J. W., Marenco, F., Burton, S. P., Benedetti, A., Engelen, R. J., Ferrare, R., and Hair, J. W.: Two global data sets of daily fire emission injection heights since 2003, Atmos. Chem. Phys., 17, 2921-2942, doi:10.5194/acp-17-2921-2017, 2017.
 3.	Evangeliou, Nikolaos; Zibtsev, S.; Myroniuk, V.; Zhurba, M.; Hamburger, Thomas; Stohl, Andreas; Balkanski, Y.; **Paugam, R.**; Mousseau, T.A.; Møller, A.P.; Kireev, S.I.: Resuspension and atmospheric transport of radionuclides due to wildfires near the Chernobyl Nuclear Power Plant in 2015: An impact assessment. Scientific Reports, Nature, doi:10.1038/srep26062,  2016.
@@ -31,12 +31,12 @@ I am currently a Visiting Scholar at the University of Washington. I am  based a
 12.	D. Cariolle, D. Caro, R. Paoli, D. Hauglustaine, B. Cuenot, A. Cozic, and **R. Paugam**, 2009: Introduction of non-linear plume chemistry into large scale atmospheric models: application to aircraft emissions, Journal of Geophysical Research, Vol. 114, D19302.
 
 
-###Referenced conference publications:
+### Referenced conference publications:
 *	**R. Paugam**, M. Wooster, G. Papadakis, and M. Schultz: Estimation of the Injection Height of Biomass Burning Emission, Proceeding for the ESA-iLEAPS-EGU joint conference, Frascati, Italy, November 2010
 *	**R. Paugam**, R. Paoli, D. Cariolle and B. Cuenot: Numerical simulation of aircraft plume evolution using a mesoscale code, Proceedings of the International Conference on Transport, Atmosphere and Climate, Oxford, UK, June 2006.
 
 
-###Main Conference Abstracts
+### Main Conference Abstracts
 *	**R. Paugam**, JP Gastellu-Etchegorry, W Mell, J .Johnston, JB Filippi: Prescribed Burn, Helicopterborne Infrared Imagery, and 3D Plume Model for Synthetic FRP Product Simulation. Earth Observation Submit, Montreal 2017.
 *	**R. Paugam**, JP Gastellu-Etchegorry, W Mell, J .Johnston, JB Filippi: Modelling Middle Infrared Thermal Imagery from Observed or Simulated Active Fire, AGU Fall Meeting Abstracts, 2016
 *	**R. Paugam**, M. Wooster, J. Johnston, J.P. Gastellu-Etchegorry: FRP product simulation tools. Numerical Wildfire workshop, Cargese France 2013
