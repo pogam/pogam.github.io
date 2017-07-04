@@ -9,12 +9,6 @@ The burn plot was a rectangle of  45 m by 21 m. The vegetation was a homogeneus 
 
 The animations below shows the raw thermal brightness temperature time-series, as captured by the handheld AGEMA 550 camera in the helicopter (left), along with the corresponding geo-referenced imagery from which metrics like fire front rate of spread can be derived (right) (see paugam et al 2013).
 
-<!--{% youtube "https://www.youtube.com/watch?v=ho8-vK0L1_8" %}-->
-
-<!--{% swfobject /data/animationRosFrame4PerS.swf %}
-<p>Latest <a href='http://www.adobe.com/go/getflashplayer'>Flash Player Plugin</a> is required.</p>
-{% endswfobject %}-->
-
 ##Some Pictures from the Ground:
 ![placeholder](/data_online/northumberland/flame-front-propagation_800x400.png "Northumberland fire: flame front")
 

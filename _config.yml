@@ -23,4 +23,4 @@ version:          2.1.0
 github:
   repo:           https://github.com/pogam
 
-gems: [jekyll-paginate,jekyll-gist, jekyll-youtube, jekyll-swfobject]
+plugins: [jekyll-paginate,jekyll-gist, jekyll-youtube, jekyll-swfobject]
