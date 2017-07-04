@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-![placeholder](/ronan.paugam-150x150.jpg)
+![placeholder](/data/ronan.paugam-150x150.jpg)
 I am currently a Visiting Scholar at the University of Washington. I am  based at the Pacific Wildland Fire Sciences Laboratory where I am working with Rudy Mell from the US Forest Service.
 
 
