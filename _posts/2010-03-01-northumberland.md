@@ -8,7 +8,11 @@ This page shows data of a 945 m² prescribed fire conducted in Northumberland (U
 
 The burn plot was a rectangle of  45 m by 21 m. The vegetation was a homogeneus fuel bed made of heather, with a density of 1.5 +/- 0.5 kg/m² and a moisture content of 60 +/- 2%. The fire was ignited simultaneously on the northern edge as a back fire line, and at the south east corner as an ignition point. During the  fire, the helicopter was hovering around 120 m above ground, and was observing the plot with view azimuth and zenith angles of around 8 and 55 degree, respectively.
 
-The animations below shows the raw thermal brightness temperature time-series, as captured by the handheld AGEMA 550 camera in the helicopter (left), along with the corresponding geo-referenced imagery from which metrics like fire front rate of spread can be derived (right) (see paugam et al 2013).
+{% include youtubePlayer.html id="qotdC51H0Ws" %}
+
+The animations below shows the raw thermal brightness temperature time-series, as captured by the handheld AGEMA 550 camera in the helicopter (left), along with the corresponding geo-referenced imagery from which fire behavior metrics can be derived (right) (see paugam et al 2013). Maps of Rate of Spread and Fire Radiative Energy (FRE) are shown below.
+
+{% include youtubePlayer.html id="tX8QdAfzFSs" %}
 
 ## Some Pictures from the Ground:
 ![placeholder](/data/northumberland/flame-front-propagation_800x400.png "Northumberland fire: flame front")
